@@ -27,11 +27,6 @@
 <details open> 
   <summary><h2>📙 Repositories</h2></summary>
   <p align="center">
-    <a href=""><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JaviiAzagra&repo=github-clone&theme=react&hide_border=true&bg_color=141514&title_color=FFFFFF&icon_color=FFFFFF&show_icons=true" alt="readme-typing-svg"></a>
-    <a href=""><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JaviiAzagra&repo=Template-Node.js&theme=react&hide_border=true&bg_color=141514&title_color=FFFFFF&icon_color=FFFFFF&show_icons=true" alt="readme-typing-svg"></a>
-    <a href=""><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JaviiAzagra&repo=DevTools&theme=react&hide_border=true&bg_color=141514&title_color=FFFFFF&icon_color=FFFFFF&show_icons=true" alt="readme-typing-svg"></a>
-    <a href=""><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JaviiAzagra&repo=Porsche-Supercup&theme=react&hide_border=true&bg_color=141514&title_color=FFFFFF&icon_color=FFFFFF&show_icons=true" alt="readme-typing-svg"></a>
-    <a href=""><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JaviiAzagra&repo=Four-Corners&theme=react&hide_border=true&bg_color=141514&title_color=FFFFFF&icon_color=FFFFFF&show_icons=true" alt="readme-typing-svg"></a>
-    <a href=""><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JaviiAzagra&repo=BOT-DISCORD&theme=react&hide_border=true&bg_color=141514&title_color=FFFFFF&icon_color=FFFFFF&show_icons=true" alt="readme-typing-svg"></a>
+   
   </p>
 </details>
