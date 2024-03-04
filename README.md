@@ -1,173 +1,37 @@
-<h1> Hello Fellow < Coders/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
-<p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Aditya+Trivedi;Computer+Engineering+Student;Cooking+Projects;%40Ady4901jk">
-</p>
-<p align='center'>
-<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<hr>
-<br>
-<p align='center'>
-<img src="https://komarev.com/ghpvc/?username=Ady4901jk">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/Ady4901jk?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=chinmay29hub.visitor-badge"> -->
-</p>
-<br>
+<h1 align="center">Aditya Trivedi</h1>
+</br>
 
-## Github Contribution Streak 🔥 
-<br>
-<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=Ady4901jk&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
-
-<hr><br>
-
-## Github Stats &nbsp;📊
-<br>
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=Ady4901jk&show_icons=true&theme=github_dark">
-</p>
-<hr>
-<br>
-
-## Most Used Languages 📚
-<br>
-<p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ady4901jk&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
-</p>
-<p align='center'>
-<h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
-</p>
-
-<hr>
-<br>
-
-## Technology Stack 💻
-
-<p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-
-### Programming Languages 👨‍💻 :
-<br>
-<p align='center'>
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/c++-3670A0?style=for-the-badge&logo=c++&logoColor=ffdd54">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">&nbsp;&nbsp;
-</p>
-<br>
-
-### Frameworks & Libraries 📦 :
-<br>
-<p align='center'>
-<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;&nbsp;
-</p>
-<br>
-### IDEs/Editors 👨‍🔧 :
-<br>
-<p align="center">
-<img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;&nbsp;
-</p>
-<br>
-
-### Version Control 🔧 :
-<br>
-<p align='center'>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;
-</p>
-<br>
-
-### Social Media 🔗 :
-<br>
-<p align='center'>
-<a href="mailto:Aditya4901j@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/Ady4901jk" target="_blank">
-<img src="https://img.shields.io/badge/adeetyatrivedi-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/chinmay-sonawane-38474019a/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-</p>
-<br>
-
-### Hosting 🌎 :
-<br>
-<p align='center'>
-<img src="https://media.giphy.com/media/XECtl1Fa2k8IKU2987/giphy.gif" width="121" height="220" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<br>
-<p align='center'>
-<img src="https://img.shields.io/badge/vercel-%23430098.svg?style=for-the-badge&logo=vercel&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;
-</p>
-<br>
-
-### Server 🗃️ :
-<br>
-<p align='center'>
-<img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
-</p>
-<br>
-
-### Database 💾 :
-<br>
-<p align='center'>
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
-<img src="https://img.shields.io/badge/mongodb-%2300f.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-</p>
-<br>
+[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" target="_blank" />](https://github.com/Ady4901jk)
+[<img src="https://img.shields.io/badge/gitlab-%2312100E.svg?&style=for-the-badge&logo=gitlab&logoColor=white&color=9b51e0" target="_blank" />](https://gitlab.com/Ady4901jk)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&color=405DE6" target="_blank"/>](https://instagram.com/adeetyatrivedi) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>](https://www.linkedin.com/in/adityatrivedii/)
 
 
-### Operating Systems 🐧 :
-<br>
-<p align='center'>
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<br>
-<p align='center'>
-<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;&nbsp;
-</p>
-<hr>
-<br>
 
-## Just a snake eating my contributions 🐍
-<p align='center'>
-<img src="https://github.com/Ady4901jk/Ady4901jk/raw/output/github-contribution-grid-snake.svg">
-</p>
+- Checkout my [portfolio]() website!
+- 🏢 Full Stack Developer
+- 🧰 I build with: `JavaScript` `React`, `Vite.js`, `Node` ...
+- ⚡ I enjoy gaming, travelling and programming :)
+- 📫 Reach out to me: 
+</br>
+<details open>
+  <summary><h2>📈 GitHub Stats</h2></summary>
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ady4901jk&theme=react&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&hide_border&show_icons=true&locale=en&layout=donut" alt="Ady4901jk" /></p>
+    </br>
+  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ady4901jk&theme=react&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=7F7F7F&icon_color=FFFFFF&hide_border&show_icons=true&locale=en" alt="Ady4901jk" /></p>
+    </br>
+  <p  align="center">&nbsp;<img src="https://streak-stats.demolab.com/?user=Ady4901jk&theme=dark&background=000000&ring=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&fire=FFFFFF&sideLabels=7F7F7F&dates=7F7F7F" alt="Ady4901jk" /></p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ady4901jk&label=Profile%20views&color=7F7F7F&style=flat" alt="Ady4901jk" /> </p>
+</details>
 
-<hr>
-<br>
-
-## Waka Time Stats 🕰
-<br>
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ady4901jk&theme=github_dark">
-</p>
-
-<hr>
-<br>
-
-<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
-<br>
-
-<p align='center'>
-<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<br>
-<h2 align='center'>Thank You!!!!!</h2>
-<br>
-
-------
-Credit : [Ady4901jk](https://github.com/Ady4901jk)
-
-Last Edited on : 26/02/2024
+<details open> 
+  <summary><h2>📙 Repositories</h2></summary>
+  <p align="center">
+    <a href=""><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JaviiAzagra&repo=github-clone&theme=react&hide_border=true&bg_color=141514&title_color=FFFFFF&icon_color=FFFFFF&show_icons=true" alt="readme-typing-svg"></a>
+    <a href=""><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JaviiAzagra&repo=Template-Node.js&theme=react&hide_border=true&bg_color=141514&title_color=FFFFFF&icon_color=FFFFFF&show_icons=true" alt="readme-typing-svg"></a>
+    <a href=""><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JaviiAzagra&repo=DevTools&theme=react&hide_border=true&bg_color=141514&title_color=FFFFFF&icon_color=FFFFFF&show_icons=true" alt="readme-typing-svg"></a>
+    <a href=""><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JaviiAzagra&repo=Porsche-Supercup&theme=react&hide_border=true&bg_color=141514&title_color=FFFFFF&icon_color=FFFFFF&show_icons=true" alt="readme-typing-svg"></a>
+    <a href=""><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JaviiAzagra&repo=Four-Corners&theme=react&hide_border=true&bg_color=141514&title_color=FFFFFF&icon_color=FFFFFF&show_icons=true" alt="readme-typing-svg"></a>
+    <a href=""><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JaviiAzagra&repo=BOT-DISCORD&theme=react&hide_border=true&bg_color=141514&title_color=FFFFFF&icon_color=FFFFFF&show_icons=true" alt="readme-typing-svg"></a>
+  </p>
+</details>
